@@ -26,6 +26,10 @@ interessiert daran, mich einzustellen? hier findest du eine auswahl meiner bishe
 
 relatee is a case study from our software engineering module in uni. my team and i created an app called relatee, where you and your household could create, manage and complete tasks together.
 
+**repository**
+
+* [https://github.com/relatee-app](https://github.com/relatee-app)
+
 **tech stack**
 
 * flutter (frontend, mainly my responsibility)
@@ -46,6 +50,10 @@ relatee is a case study from our software engineering module in uni. my team and
 ### discountee - android engineering
 
 discountee is also a case study from our android engineering module. my team and i created an app where you could take pictures of your favourite drinks, snacks or other products and see where you can get them the cheapest.
+
+**repository**
+
+* [https://github.com/iloveproggen/mobile-engineering](https://github.com/iloveproggen/mobile-engineering)
 
 **tech stack**
 
@@ -102,6 +110,10 @@ for the quality assurance module, we collected best practices for flutter, a fra
 
 relatee ist eine fallstudie aus unserem software-engineering-modul an der universität. mein team und ich haben eine app namens relatee entwickelt, mit der du und dein haushalt gemeinsam aufgaben erstellen, verwalten und erledigen könnt.
 
+**repository**
+
+* [https://github.com/relatee-app](https://github.com/relatee-app)
+
 **tech stack**
 
 * flutter (frontend, hauptsächlich meine aufgabe)
@@ -122,6 +134,10 @@ relatee ist eine fallstudie aus unserem software-engineering-modul an der univer
 ### discountee - android engineering
 
 discountee ist ebenfalls eine fallstudie aus unserem android-engineering-modul. mein team und ich haben eine app entwickelt, mit der man fotos von lieblingsgetränken, snacks oder anderen produkten aufnehmen kann, um herauszufinden, wo man sie am günstigsten bekommt.
+
+**repository**
+
+* [https://github.com/iloveproggen/mobile-engineering](https://github.com/iloveproggen/mobile-engineering)
 
 **tech stack**
 
