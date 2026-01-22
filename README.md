@@ -11,12 +11,14 @@ interessiert daran, mich einzustellen? hier findest du eine auswahl meiner bishe
   * [discountee – android engineering](#discountee---android-engineering)
   * [design thinking](#design-thinking)
   * [quality assurance (qualitätssicherung)](#quality-assurance-qualitätssicherung)
+  * [sieberts fisch - marketing](#sieberts-fisch---marketing)
 * [deutsche version](#deutsche-version)
 
   * [relatee – software engineering](#relatee---software-engineering-1)
   * [discountee – android engineering](#discountee---android-engineering-1)
   * [design thinking](#design-thinking-1)
   * [qualitätssicherung](#qualitätssicherung)
+  * [sieberts fisch - marketing](#sieberts-fisch---marketing-1)
 
 ---
 
@@ -102,6 +104,14 @@ for the quality assurance module, we collected best practices for flutter, a fra
 * responsible for conceptual and technical content
 * my name appears on the slides i was content-wise responsible for
 
+### sieberts fisch - marketing
+
+sieberts fisch was a group project in out marketing module, where we had to create a poster for a weekly market stand in düsseldorf.
+
+**my role**
+* design of the poster
+* analysis of the intended audience
+
 ---
 
 ## deutsche version
@@ -185,3 +195,11 @@ im modul qualitätssicherung haben wir best practices für flutter gesammelt, ei
 * flutter experte auf inhaltlicher ebene
 * verantwortung für konzeptionelle und technische inhalte
 * mein name steht auf den slides, für die ich inhaltlich verantwortlich war
+
+### sieberts fisch - marketing
+
+sieberts fisch war eine gruppenarbeit in unserem marketing modul, bei dem wir ein poster über ein wochenmarktsstand in düsseldorf designen müssen
+
+**meine aufgabe**
+* design des posters
+* zielgruppenanalyse
